@@ -1,0 +1,3 @@
+rootProject.name = 'enterMnemonicView'
+
+include ':app'
